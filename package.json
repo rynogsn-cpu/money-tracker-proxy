@@ -1,0 +1,6 @@
+{
+  "name": "money-tracker-proxy",
+  "version": "1.0.0",
+  "description": "Invoice scan proxy for Money Tracker app",
+  "private": true
+}
